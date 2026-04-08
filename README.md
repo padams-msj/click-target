@@ -59,7 +59,6 @@ The game works but looks plain. Try making it more visually appealing.
 **Hints:**
 
 - Open `style.css` and experiment with `background-color` on the `body` to give the page a theme.
-- Give the target a `border-radius: 50%` to make it a circle instead of a square, and try adding a `box-shadow` to make it pop.
 - Use a Google Font (add a `<link>` tag in `index.html`) to replace the default browser font.
 - Style the score and timer with larger text and a contrasting colour so they're easy to read at a glance.
 
